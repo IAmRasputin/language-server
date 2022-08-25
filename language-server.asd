@@ -1,9 +1,9 @@
 ;;;; language-server.asd
 
 (asdf:defsystem #:language-server
-  :description "An LSP implementation for Common Lisp"
-  :author "IAmRasputin <ryanmgannon@gmail.com>"
-  :license  "BSD-3-Clause"
+  :description "Describe language-server here"
+  :author "Your Name <your.name@example.com>"
+  :license  "Specify license here"
   :version "0.0.1"
   :serial t
   :depends-on (#:quri #:cl-ppcre #:jsonrpc)
